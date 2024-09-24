@@ -1,5 +1,8 @@
 # Formulir Pendaftaran Pengguna & Frame
 
+![image](https://github.com/user-attachments/assets/33e67513-6e8c-4665-836e-2ff4106232ef)
+
+
 ## Nama mahasiswa
 
 - **Nama**: Roofiif Alria Dzakwan
@@ -29,3 +32,4 @@ Proyek ini dapat diakses melalui tautan berikut:
 - **HTML**: Digunakan untuk membuat struktur form.
 - **Tailwind CSS**: Framework CSS yang digunakan untuk styling yang responsif dan modern.
 - **JavaScript**: Digunakan untuk validasi form.
+
